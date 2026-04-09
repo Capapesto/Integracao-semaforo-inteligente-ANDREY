@@ -47,6 +47,19 @@ Emite sinais sonoros via buzzer baseados no estado veicular:
 3.  **Semáforo Pedestre:** 4
 4.  **Acessibilidade:** 3
 
+
+## Materiáis
+
+| Item | Qtd. |
+| ESP32 DevKit V1	| 1 |
+| Módulo LDR | 1 |
+| LED Vermelho | 2 |
+| LED Amarelo | 1 |
+| LED Verde | 2 |
+| Resistor 220Ω | 5 |
+
+
+
 ## Créditos e Autoria
 * **Integração e Remake de todos + Semáforo Veículos:** Andrey André
 * **Acessibilidade:** Lucas Espanhol
